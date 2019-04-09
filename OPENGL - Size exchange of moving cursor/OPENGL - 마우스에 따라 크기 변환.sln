@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OPENGL - 마우스에 따라 크기 변환", "OPENGL - 마우스에 따라 크기 변환\OPENGL - 마우스에 따라 크기 변환.vcxproj", "{8E2D0453-07A3-4051-836D-EF0C25436577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Debug|x64.ActiveCfg = Debug|x64
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Debug|x64.Build.0 = Debug|x64
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Debug|x86.Build.0 = Debug|Win32
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Release|x64.ActiveCfg = Release|x64
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Release|x64.Build.0 = Release|x64
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Release|x86.ActiveCfg = Release|Win32
+		{8E2D0453-07A3-4051-836D-EF0C25436577}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F459B96B-3A10-4A51-85AA-9B3350AA747C}
+	EndGlobalSection
+EndGlobal
